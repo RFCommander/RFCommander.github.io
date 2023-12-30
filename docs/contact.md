@@ -4,4 +4,4 @@ title: "Contact"
 permalink: /about/contact
 ---
 
-<h1>Contact me via miglnunes1@gmail.com</h1> 
+<h1>Contact me via rf.commander.em@gmail.com</h1> 
