@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Simulation Frequency"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2023-12-30 -0000
 ---
 <h1>Simulation Frequency</h1>
