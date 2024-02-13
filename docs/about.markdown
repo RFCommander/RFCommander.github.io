@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am an engineer by trade (and heart) who found himeslf with a need to record his investigations.
+In a nutsheel here you can read in a compiled manner some of my studies and off work investigations that I post and intend keep posting in the future for a couple of reasons:
+  1 - It is a great way to consolidate and organise the knowledge that I am studying/learning/revisiting,
+  2 - In the future if I forget something or if I am in doubt, I can always read back my posts,
+  3 - It may help someone undestand a specific concept or get by a specific hurdle. Sometimes just a different perspective is enough.
