@@ -9,7 +9,7 @@ In a nutshell here you can read in a compiled manner some of my studies and off 
  <ol>
   <li>It is a great way to consolidate and organise the knowledge that I am studying/learning/revisiting</li>
   <li>In the future if I forget something or if I am in doubt, I can always read back my posts</li>
-  <li>It may help someone undestand a specific concept or get by a specific hurdle. Sometimes just a different perspective is enough</li>
+  <li>It may help someone understand a specific concept or get by a specific hurdle. Sometimes just a different perspective is enough</li>
 </ol> 
   
   
